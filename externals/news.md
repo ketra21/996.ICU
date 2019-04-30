@@ -141,6 +141,8 @@
 
 - 多维新闻网：[“码农”线上串联维权 引中国官媒关注](http://news.dwnews.com/china/news/2019-04-03/60127095.html)
 
+- 纽约时报：[中国科技业员工温和反击“996”](https://cn.nytimes.com/technology/20190430/china-996-jack-ma/)
+
 - 联合早报：[中国程序员网上抗议“996”工作制引关注](https://www.zaobao.com/realtime/china/story20190405-946187)
 - 联合早报：[胡锡进：996不能够成为职场普遍号召](https://www.zaobao.com/realtime/china/story20190413-948394)
 
